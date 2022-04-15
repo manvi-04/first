@@ -8,7 +8,7 @@ body {
 
 h1 {
   color:#361500;
-  font-size: 5.625rem;
+  font-size: 5.525rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
@@ -16,7 +16,7 @@ h1 {
 h2 {
   color:#361500;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.4rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
@@ -29,7 +29,7 @@ h3 {
 
 p {
   line-height: 2;
-  font-size: 17px;
+  font-size: 16px;
 }
 
 hr {
